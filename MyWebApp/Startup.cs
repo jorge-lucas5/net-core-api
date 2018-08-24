@@ -53,7 +53,6 @@ namespace MyWebApp
 
             app.UseStaticFiles();
             app.UseMvcWithDefaultRoute();
-
         }
     }
 }
